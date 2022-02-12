@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @salvatoreBosco
+- 📖 I'm a Computer Engineering Student at Politecnico di Milano
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning node.js
 - 📫 How to reach me: salvatorebosco.mail@gmail.com
